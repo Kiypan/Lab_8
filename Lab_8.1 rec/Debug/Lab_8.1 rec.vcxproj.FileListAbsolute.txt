@@ -1,0 +1,2 @@
+C:\Users\Kiypan\source\repos\Lab_8.1 rec\Debug\Lab_8.1 rec.exe
+C:\Users\Kiypan\source\repos\Lab_8.1 rec\Debug\Lab_8.1 rec.pdb

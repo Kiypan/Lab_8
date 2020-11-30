@@ -1,0 +1,2 @@
+C:\Users\Kiypan\source\repos\Lab_8.1 string\Debug\Lab_8.1 string.exe
+C:\Users\Kiypan\source\repos\Lab_8.1 string\Debug\Lab_8.1 string.pdb
